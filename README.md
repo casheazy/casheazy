@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @casheazy
 - 👀 I’m interested in software development 
-- 🌱 I’m currently learning HTML, Css and Javascript 
+- 🌱 I’m currently learning HTML, CSS and Javascript 
 - 💞️ I’m looking to collaborate on projects that can help me improve 
 - 📫 How to reach me on Instagram is @casheazy_sngsng
 
